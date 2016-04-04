@@ -1,0 +1,35 @@
+Bel Leb/265
+Crn Leb/259
+Mleko 3.7% maslenost/64
+Mleko 2% maslenost/50
+Mleko 1% maslenost/42
+Feta Sirenje/264
+Jajca vareni/155
+Jajca przeni/196
+Jajca Zivi/143
+Puter/717
+Hamburger/332
+Pica kapricioza/266
+Patligani/18
+Alva/131
+Majonez/680
+Kecap/112
+Maslinki/115
+Pileski Gradi/165
+Cimet/247
+Ajvar/80
+Bagel/310
+Biscuit digestives/480
+Jaffa cake/370
+Bread wholemeal/220
+Chapatis/300
+Cornflakes/370
+Crackerbread/325
+Cream crackers/440
+Crumpets/198
+Flapjacks basic fruit mix/500
+Macaroni (boiled)/95
+Muesli/390
+Naan bread (normal)/320
+Noodles (boiled)/70
+Pasta/110
