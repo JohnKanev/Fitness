@@ -5,3 +5,5 @@
 ###### There arent any good graphical calroie calculators for windows
 **For what Platform?**
 ###### It is only for Windows PC
+**What is it made with?**
+###### This program was made with Borland Delphi 7
