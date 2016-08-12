@@ -1,2 +1,4 @@
 # Fitness
-This was my first serious application in delphi
+  ## What it is?
+  ###### Fitness is an app that calulates your daily needs and you choose how you satisfy those needs
+  
